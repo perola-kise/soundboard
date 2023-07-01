@@ -14,7 +14,7 @@
 body {
   align-items: center;
   background: #c3f8a0;
-  background-image: url('/soundboard/images/pinkflower01.png') ;
+  background-image: url('../images/pinkflower01.png') ;
   background-repeat: repeat-x;
   background-size: contain;
   display: flex;
